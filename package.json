@@ -1,0 +1,27 @@
+{
+  "name": "interface-typescript",
+  "version": "1.0.0",
+  "description": "Working with interfaces in typescript 💻",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HellenWeb/interface-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HellenWeb/interface-typescript/issues"
+  },
+  "homepage": "https://github.com/HellenWeb/interface-typescript#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.10"
+  }
+}
